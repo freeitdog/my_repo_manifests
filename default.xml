@@ -8,5 +8,5 @@
            remote="gitsvr"
            sync-j="4" />
 
-  <project path="utils/json" name="nlohmann/json" />
+  <project path="utils/json" name="nlohmann/json" revision="develop"/>
 </manifest>
