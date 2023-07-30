@@ -11,5 +11,7 @@
   <project path="utils/json" name="nlohmann/json" revision="develop" />
   <project path="utils/libevent" name="libevent/libevent" />
   <project path="utils/lua" name="lua/lua" />
+
+  <project path="app" name="freeitdog/my_repo_app" />
   
 </manifest>
