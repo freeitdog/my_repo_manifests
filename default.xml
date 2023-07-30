@@ -13,6 +13,6 @@
   <project path="utils/lua" name="lua/lua" />
 
   <project path="app" name="freeitdog/my_repo_app" />
-  <project path="." name="freeitdog/my_repo_build" />
+  <project path="build" name="freeitdog/my_repo_build" />
   
 </manifest>
