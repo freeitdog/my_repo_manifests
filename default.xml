@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+  <remote  name="gitsvr"
+           fetch=".."
+           review="https://android-review.googlesource.com/" />
+
+  <default revision="master"
+           remote="gitsvr"
+           sync-j="4" />
+
+  <project path="build/make" name="platform/build" />
+</manifest>
